@@ -1,0 +1,51 @@
+span{
+    color:red;
+}
+.he{
+    
+    color:rgb(6, 199, 6);
+    border: 12px;
+    border-radius: 20px;
+    
+    font-size: 35px;
+    text-align: center;
+}
+.her{
+    color:white;
+    font-size: 24px;
+    text-align: center;
+    border-bottom: 12px solid purple;
+    width:40%;
+    margin:auto;
+    font-family:'Kablammo';
+    text-shadow: 2px 2px 12px black;
+}
+    
+
+
+.t{
+color:red;
+border-radius: 10px;
+background-color: aliceblue;
+width:40%;
+font-size: 30px;
+text-align: center;
+align-items: center;
+font-style: italic;
+box-shadow: 5px 5px 12px yellow;
+text-shadow: 2px 2px 2px purple;
+padding:5px;
+margin:2%;
+margin-left: 30%;
+font-family:'Raleway';
+}
+
+
+body{
+    background: pink;
+    color:white;
+}  
+.ending{
+    text-decoration: underline;
+    color:black
+}
